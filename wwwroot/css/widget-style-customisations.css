@@ -1,0 +1,60 @@
+ .okeReviews.okeReviews--theme .okeReviews-badge--rating { background-color: #FB613B; }   .okeReviews.okeReviews--theme .okeReviews-starRating-indicator-layer--foreground { background-image: url('data:image/svg+xml;charset=UTF-8, %3Csvg%20width%3D%2280%22%20height%3D%2214%22%20viewBox%3D%220%200%2080%2014%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22%23000000%22%20fill-rule%3D%22evenodd%22%3E%3Cpath%20d%3D%22M71.996%2011.368l-3.94%202.42c-.474.292-.756.096-.628-.443l1.074-4.53-3.507-3.022c-.422-.363-.324-.693.24-.74l4.602-.37%201.778-4.3c.21-.51.55-.512.762%200l1.78%204.3%204.602.37c.552.046.666.37.237.74l-3.507%203.02%201.075%204.532c.127.536-.147.74-.628.444l-3.94-2.422zM55.996%2011.368l-3.94%202.42c-.474.292-.756.096-.628-.443l1.074-4.53-3.507-3.022c-.422-.363-.324-.693.24-.74l4.602-.37%201.778-4.3c.21-.51.55-.512.762%200l1.78%204.3%204.602.37c.552.046.666.37.237.74l-3.507%203.02%201.075%204.532c.127.536-.147.74-.628.444l-3.94-2.422zM40.123%2011.368l-3.94%202.42c-.475.292-.756.096-.63-.443l1.076-4.53-3.508-3.022c-.422-.363-.324-.693.24-.74l4.602-.37%201.778-4.3c.21-.51.55-.512.762%200l1.778%204.3%204.603.37c.554.046.667.37.24.74l-3.508%203.02%201.075%204.532c.127.536-.147.74-.628.444l-3.94-2.422zM24.076%2011.368l-3.94%202.42c-.475.292-.757.096-.63-.443l1.076-4.53-3.507-3.022c-.422-.363-.324-.693.238-.74l4.603-.37%201.78-4.3c.21-.51.55-.512.76%200l1.78%204.3%204.602.37c.554.046.667.37.24.74l-3.508%203.02%201.074%204.532c.127.536-.146.74-.628.444l-3.94-2.422zM8.123%2011.368l-3.94%202.42c-.475.292-.756.096-.63-.443l1.076-4.53L1.12%205.792c-.422-.363-.324-.693.24-.74l4.602-.37%201.778-4.3c.21-.51.55-.512.762%200l1.778%204.3%204.603.37c.554.046.667.37.24.74l-3.508%203.02%201.075%204.532c.127.536-.147.74-.628.444l-3.94-2.422z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E'); }   .okeReviews.okeReviews--theme .okeReviews-badge--recommended { background-color: #000000; }   .okeReviews.okeReviews--theme .okeReviews-review-recommendation--yes::before { color: #000000; }   .okeReviews.okeReviews--theme .okeReviews-review-reviewer-profile-status--verified { color: #000000; }   .okeReviews.okeReviews--theme .okeReviews-avatar {   color: #000000;  }    .okeReviews.okeReviews--theme .okeReviews-barGraph-layer--foreground { background: #000000; }    .okeReviews.okeReviews--theme .or-rg-bar-mrk, .okeReviews.okeReviews--theme .or-crg-bar-mrk { background-color: #000000; }   .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-medium .okeReviews-reviewsAggregate-side, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-medium .okeReviews-reviewsAggregate-primary, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-medium .okeReviews-review-side, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-medium .okeReviews-review-primary, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-large .okeReviews-reviewsAggregate-side, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-large .okeReviews-reviewsAggregate-primary, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-large .okeReviews-review-side, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget.is-okeReviews-reviewsWidget-large .okeReviews-review-primary { border-color: #bcbcbc; } .okeReviews.okeReviews--theme .okeReviews-select, .okeReviews.okeReviews--theme .okeReviews-select::before, .okeReviews.okeReviews--theme .okeReviews-button, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget-emptyMessage, .okeReviews.okeReviews--theme .okeReviews-qandaWidget-emptyMessage, .okeReviews.okeReviews--theme .okeReviews-review-reviewer-profile, .okeReviews.okeReviews--theme .okeReviews-reviewsWidget-loadingMessage, .okeReviews.okeReviews--theme .okeReviews-questions, .okeReviews.okeReviews--theme .okeReviews-question, .okeReviews.okeReviews--theme .okeReviews-reviews-showMore, .okeReviews.okeReviews--theme .okeReviews-showMore, .okeReviews.okeReviews--theme .okeReviews-review-response, .okeReviews.okeReviews--theme .okeReviews-reviewsAggregate-side, .okeReviews.okeReviews--theme .okeReviews-reviewsAggregate-primary, .okeReviews.okeReviews--theme .okeReviews-review-side, .okeReviews.okeReviews--theme .okeReviews-review-primary { border-color: #bcbcbc; } .okeReviews.okeReviews--theme .okeReviews-reviews-footer::before { background-color: #bcbcbc; }    .okeReviews.okeReviews--theme .okeReviews-widgetNavBar-count { background-color: #000000; }   .okeReviews.okeReviews--theme .okeReviews-reviewsTab { background-color: #fb613b; }    [data-oke-reviews-widget-holder] { padding-top: 20px; }            .okeReviews.okeReviews--theme .okeReviews-starRating.okeReviews-starRating--small { height: 15px; width: 75px; } .okeReviews.okeReviews--theme .okeReviews-starRating--small .okeReviews-starRating-indicator-layer { background-size: 75px 15px; } .okeReviews.okeReviews--theme .okeReviews-starRating { height: 20px; width: 100px; } .okeReviews.okeReviews--theme .okeReviews-starRating-indicator-layer { background-size: 100px 20px; } .okeReviews.okeReviews--theme .okeReviews-ratingsBadge .okeReviews-starRating-indicator-layer { background-size: 90px 18px; } .okeReviews.okeReviews--theme .okeReviews-ratingsBadge .okeReviews-starRating { width: 90px; height: 18px; }    .okeReviews .okeReviews-widgetNavBar {
+    text-align: center;
+}
+
+.okeReviews  .okeReviews-widgetNavBar-item {
+    margin: 0 2em; 
+}
+
+.okeReviews .okeReviews-button {
+  background: transparent;
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  letter-spacing: 0.07rem;
+  transition: all 0.2s ease-in-out;
+  border: 0.125rem solid #000000 !important;
+}
+
+.okeReviews .okeReviews-button:hover {
+  background-color: #fb613b;
+  color: #fff;
+  border: 0.125rem solid #fb613b !important;
+}
+
+.okeReviews .okeReviews-reviewsAggregate,
+.okeReviews .okeReviews-review,
+.okeReviews .okeReviews-questions {
+  color: #000000;
+}
+
+.okeReviews .okeReviews-tag {
+  background-color: #FB613B;
+}
+
+.okeReviews .okeReviews-tag--store {
+  background-color: #fff;
+  border: 1px solid #FB613B;
+  color: #FB613B;
+}
+
+.okeReviews .okeReviews-widgetNavBar-item[aria-selected='true'] {
+  border-bottom: 3px solid #FB613B;
+  color: #000000;
+}
+
+.okeReviews .okeReviews-widgetNavBar-item {
+  color: #717171;
+  font-size: 1.25rem;
+  font-family: sans-serif;
+}
+
+@media all and (max-width: 425px) {
+  .okeReviews .okeReviews-button {
+    font-size: 11px;
+  }
+
+  .okeReviews .okeReviews-widgetNavBar-item {
+    font-size: 16px;
+  }
+} 
